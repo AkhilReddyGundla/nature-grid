@@ -80,8 +80,4 @@ h1{
     .Sub-heading{
         width: 100%;
     }
-    .box{
-        grid-row: span 1;
-        grid-column: span 3;
-    }
 }
